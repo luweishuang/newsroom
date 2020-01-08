@@ -1,2 +1,10 @@
+.idea/
+src/
 tests/data
 newsroom/analyze/rouge/ROUGE-1.5.5/data/WordNet-2.0.exc.db
+newsroom/__pycache__/
+newsroom/analyze/__pycache__/
+newsroom/analyze/rouge/__pycache__/
+newsroom/build/__pycache__/
+newsroom/evaluate/__pycache__/
+

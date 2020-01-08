@@ -89,7 +89,6 @@ class Fragments(object):
 
 
     def strings(self, min_length = 0, raw = None, summary_base = True):
-
         """
 
         Return a list of explicit match strings between the summary and reference.
